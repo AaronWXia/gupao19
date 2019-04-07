@@ -17,7 +17,11 @@ public class Test {
         rule.setShape("肤白貌美");
         Person gril = new Gril(rule);
         Person proxyMedia = (Person) new ProxyMedia(gril).getInstance();
-        proxyMedia.findLove(rule);
+        try {
+            proxyMedia.findLove(rule);
+        } catch (NoSuchMethodException e) {
+            e.printStackTrace();
+        }
 
         byte[] bytes = ProxyGenerator.generateProxyClass("$Proxy0",new Class[]{Person.class});
         FileOutputStream os =null;

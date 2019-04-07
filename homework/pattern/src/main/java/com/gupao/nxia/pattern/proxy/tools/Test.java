@@ -14,6 +14,6 @@ public class Test {
         rule.setShape("肤白貌美");
         Person gril = new Gril(rule);
         ProxyMediaNew proxyMediaNew = new ProxyMediaNew(new Gril(rule));
-        Person person = (Person) Proxy.newProxyInstance(ClassLoader.getSystemClassLoader(), new Class[]{Person.class},proxyMediaNew);
+        Person person = (Person) Proxy.newProxyInstance(new NXiaClassLoader(){}, new Class[]{Person.class},proxyMediaNew);
     }
 }
