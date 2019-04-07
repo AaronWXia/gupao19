@@ -14,19 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="NXInvocationHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/proxy/tools/NXInvocationHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Proxy.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Proxy.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/proxy/tools/Proxy.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
@@ -40,43 +28,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NXiaClassLoader.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/proxy/tools/NXiaClassLoader.java">
+      <file leaf-file-name="Boss.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/delegate/Boss.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Object.java" pinned="false" current-in-tab="false">
-        <entry file="jar://G:/JDk1.8/src.zip!/java/lang/Object.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="62" column="44" lean-forward="true" selection-start-line="62" selection-start-column="44" selection-end-line="62" selection-end-column="44" />
+            <state relative-caret-position="46">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JavaCompiler.java" pinned="false" current-in-tab="false">
-        <entry file="jar://G:/JDk1.8/src.zip!/javax/tools/JavaCompiler.java">
+      <file leaf-file-name="Job.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/delegate/Job.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="284" column="0" lean-forward="false" selection-start-line="284" selection-start-column="0" selection-end-line="284" selection-end-column="0" />
+            <state relative-caret-position="46">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/proxy/tools/Test.java">
+      <file leaf-file-name="Leader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/delegate/Leader.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
-              <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,55 +60,68 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="$Proxy0.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/proxy/tools/$Proxy0.java">
+      <file leaf-file-name="Promotion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/Promotion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+            <state relative-caret-position="92">
+              <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProxyMedia.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/proxy/ProxyMedia.java">
+      <file leaf-file-name="CouponPromotionStrategy.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/CouponPromotionStrategy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+            <state relative-caret-position="138">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PromotionStrategyFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/PromotionStrategyFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
-                <element signature="e#692#693#0" expanded="true" />
-                <element signature="e#738#739#0" expanded="true" />
-                <element signature="e#764#765#0" expanded="true" />
-                <element signature="e#810#811#0" expanded="true" />
+                <element signature="e#459#460#0" expanded="true" />
+                <element signature="e#504#505#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Proxy.java" pinned="false" current-in-tab="false">
-        <entry file="jar://G:/JDk1.8/src.zip!/java/lang/reflect/Proxy.java">
+      <file leaf-file-name="CashPromotionStrategy.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/CashPromotionStrategy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="702" column="25" lean-forward="false" selection-start-line="702" selection-start-column="25" selection-end-line="702" selection-end-column="25" />
+            <state relative-caret-position="138">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProxyMediaNew.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/proxy/tools/ProxyMediaNew.java">
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/delegate/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+            <state relative-caret-position="92">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
-                <element signature="e#341#342#0" expanded="true" />
-                <element signature="e#375#376#0" expanded="true" />
-                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -167,18 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/pattern/pom.xml" />
-        <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/factory/ProductParam.java" />
-        <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/factory/SimpleFactory.java" />
-        <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/factory/Product.java" />
-        <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/factory/Milk.java" />
-        <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/factory/App.java" />
-        <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/factory/Bread.java" />
-        <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/factory/simplefactory/SimpleFactory.java" />
-        <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/factory/factorymethod/Milk.java" />
-        <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/factory/factorymethod/BreadFactory.java" />
-        <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/factory/factorymethod/FactoryMethod.java" />
         <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/factory/factorymethod/MilkFactory.java" />
         <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/factory/factorymethod/App.java" />
         <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/factory/factorymethod/ProductFactory.java" />
@@ -216,6 +193,20 @@
         <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/proxy/tools/$Proxy0.java" />
         <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/proxy/tools/NXiaClassLoader.java" />
         <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/proxy/tools/Proxy.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/Job.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/Employee.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/Boss.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/delegate/delegate/Boss.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/delegate/delegate/Employee.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/delegate/delegate/Job.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/delegate/delegate/Leader.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/Leader.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/delegate/Leader.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/Promotion.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/CouponPromotionStrategy.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/CashPromotionStrategy.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/PromotionStrategyFactory.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/Test.java" />
       </list>
     </option>
   </component>
@@ -244,7 +235,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="127" />
     <option name="y" value="166" />
     <option name="width" value="1843" />
@@ -318,18 +309,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="tools" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -353,6 +333,7 @@
       <recent name="com.gupao.nxia.pattern.factory.factorymethod" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.gupao.nxia.pattern.strategy" />
       <recent name="com.gupao.nxia.pattern.proxy.tools" />
       <recent name="com.gupao.nxia.pattern.prototype.deep" />
       <recent name="com.gupao.nxia.pattern.factory" />
@@ -557,12 +538,12 @@
       <updated>1552883399887</updated>
       <workItem from="1552883406943" duration="9794000" />
       <workItem from="1553074836966" duration="825000" />
-      <workItem from="1554602145790" duration="17858000" />
+      <workItem from="1554602145790" duration="20581000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28477000" />
+    <option name="totallyTimeSpent" value="31200000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -574,7 +555,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -586,7 +567,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29784825" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.049830124" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -618,64 +599,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/factory/simplefactory/SimpleFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/factory/factorymethod/Bread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/factory/factorymethod/FactoryMethod.java" />
-    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/factory/factorymethod/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/factory/factorymethod/MilkFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/factory/factorymethod/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/factory/factorymethod/Milk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/factory/factorymethod/BreadFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/factory/factorymethod/ProductFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/factory/abstractfactory/Milk.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -986,8 +909,8 @@
         <state relative-caret-position="267">
           <caret line="90" column="5" lean-forward="true" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
           <folding>
-            <element signature="e#3851#3852#0" expanded="true" />
-            <element signature="e#3898#3899#0" expanded="true" />
+            <element signature="e#3851#3852#0" expanded="false" />
+            <element signature="e#3898#3899#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1103,6 +1026,87 @@
             <element signature="e#509#510#0" expanded="true" />
             <element signature="e#547#548#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/delegate/Boss.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/delegate/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/delegate/Job.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/delegate/Leader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/Promotion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/CashPromotionStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/CouponPromotionStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/PromotionStrategyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/gupao/nxia/pattern/strategy/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
